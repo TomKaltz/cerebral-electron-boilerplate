@@ -7,7 +7,6 @@ const {app, remote,	Menu,	BrowserWindow} = electron;
 
 // prevent certain things from being garbage collected
 let mainWindow;
-let atem;
 let rpcServer;
 let storage;
 
