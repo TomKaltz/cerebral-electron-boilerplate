@@ -2,7 +2,6 @@
 
 const fs = require('fs');
 const electron = require('electron');
-//const {app} = electron;
 const {app, remote,	Menu,	BrowserWindow} = electron;
 
 // prevent certain things from being garbage collected
