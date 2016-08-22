@@ -1,0 +1,7 @@
+jspm_packages
+node_modules
+/dist
+*.swp
+compiledapp.js
+/out
+.DS_Store
